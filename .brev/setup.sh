@@ -9,3 +9,8 @@ pip install -U -r requirements.txt
 pip install pyheif
 pip install piexif
 pip install bitsandbytes
+pip install fastapi
+pip install flask
+pip install uvicorn
+pip install python-multipart
+pip install aiofiles
